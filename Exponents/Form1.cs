@@ -8,8 +8,8 @@ using System.Text;
 using System.Windows.Forms;
 
 /**************************************
- * Name:
- * Date:
+ * Name: Sarah deRoche
+ * Date: 10/29/2023
  * Description: A program using user-created method
  *              for the math function Square and Cube
  * Assistance:
@@ -40,7 +40,7 @@ namespace Exponents
             UxOutputLabel.Visible = true;
             /* calculate the cube of the number and add it to the output - 
              * do this by creating a methd as in the squaring example above */
-
+            UxOutputLabel.Text += "\nCube is: " + num.ToString();
             // OUTPUT
             // set the output to visible
 
