@@ -24,7 +24,7 @@ namespace Exponents
             InitializeComponent();
         }
 
-        private void xGoButton_Click(object sender, EventArgs e)
+        private void UxGoButton_Click(object sender, EventArgs e)
         {
             // STORAGE
             int num;
